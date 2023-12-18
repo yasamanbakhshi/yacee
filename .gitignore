@@ -1,0 +1,13 @@
+# .gitignore
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+node_modules/
+.DS_Store
+Desktop.ini
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
